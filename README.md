@@ -18,3 +18,6 @@ python vector.py почта
 
 ▫️ Информация об IP-адресе
 python vector.py айпи
+
+Подпишись на мой тг канал - https://t.me/hachpro5689sk4
+Subscribe to my tg channel - https://t.me/hachpro5689sk4
